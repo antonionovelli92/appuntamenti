@@ -1,7 +1,7 @@
 const data = [
   {
     id: 1,
-    nome: "Francesco Robiola",
+    nome: "Antonio Novelli",
     stato: "No pain no Gain XOXO PALESTRA MUSCOLI POTENZA",
     img:
       "https://res.cloudinary.com/thomasdea/image/upload/v1612341193/react-api-course/tizio-palestra_naoqwo.jpg",
